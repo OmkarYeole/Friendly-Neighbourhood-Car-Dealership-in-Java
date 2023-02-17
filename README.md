@@ -1,4 +1,4 @@
-# Homework2_CSCI_5448
+# Project2_CSCI_5448
 
 Team Members - Omkar Yeole, Abhishek Limaye
 
