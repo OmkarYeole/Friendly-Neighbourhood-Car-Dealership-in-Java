@@ -1,0 +1,49 @@
+Comments for changes made in the new updated UML Diagram:
+
+a) The Operation class now inherits from the Staff class and it includes some additional methods and attributes.
+   The additional public attributes included are added_money, total_sales, day.
+   Many public attributes like staff and vehicles and public methods have been removed from the Operation class like open(),
+   wash(), repair(), buy(), and trackMoney() as they have been replaced and implemented in other classes.
+   Two new public methods, main() for calling the object instances, and Print() are implemented in the Operation class.
+
+b) An additional Buyer class has been added which inherits from the Staff class.
+   This Buyer class handles all the details involving the buyers that visit the FNCD.
+   This Buyer class includes public attributes like buyers, buyers_choice, buyer_prob, buyer_no.
+   It also implements public methods like addBuyer(), addBuyerType(), addBuyerChoice(), getBuyerIndex1(), getBuyerIndex2(), init3().
+
+d) The Staff and the Vehicle class interact with each other on multiple scenarios.
+
+e) The Staff class has been updated to include some additional methods and attributes.
+   The new public attributes are staff, total_bonus, dep_total_bonus, total_salary, dep_total_salary, dep_days_worked, staff_status,
+   staffType, total_normal_pay, dep_total_normal_pay, quit_status, bonus_val.
+   The names for some existing attributes have also been changed, name updated to names, normalPay changed to normal_pay,
+   daysWorked changed to days_worked and departedStaff changed to dep_staff.
+   Public Methods like getSalary() and getBonus() have been replaced with init(), add_names(), getName(), addStaff(),
+   while updateDeptStaff() has been changed to updateDepartedStaff().
+
+f) The Vehicle class has some changes in attribute names where public attributes like name/no., costPrice, salePrice and soldInventory
+   have been changed to car_names, cost_price, sales_price and soldVehicles.
+   Additional attributes added to the class are carType, carCondition, vehicle, max_sale_price, conditionSelected, vehicle_wash_bonus,
+   vehicle_repair_bonus and vehicle_sale_bonus, carCleanliness.
+   Public methods like updateCondition() and updateSoldInventory() have been removed and additional public methods like init2(),
+   add_vehicle_names(), getcarName(), addVehicles(), addVehicle(), setCondition(), setCleanliness(), getCondition(), getCondition2(),
+   getCleanliness(), getCleanliness2(), VehicleTopPrice(), totalVehicleTopPrice(), updateSalesPrice(), updateCleanliness() and Print2()
+   have been added. 
+
+g) The previous attributes from the Salesperson class have been removed and new public attributes have been included in the class
+   like index2, buyer_index1, buyer_index2, buyer_choice, vehicle_choice, salesperson, buyer and vehicle.
+   Public methods like addSalesperson(), dropSalesperson() have been dropped while Sell() method is replaced with sale().
+   Additional method getTotalDays() is added to the class as well.
+
+h) Previous public attributes have been removed from the Intern class and new public attributes like cleanliness_choice, vehicle_1,
+   vehicle_2.
+   A new public method getTotalDays() has been added to the Intern class.
+
+i) Mechanic class has its previous public attributes removed and new public attributes like index, vehicle_choice and vehicle
+   have been added.
+   Previous public methods addMechanic() and dropMechanic() have been dropped and new public methods like repair_update() and
+   getTotalDays() have been added.
+
+j) All the previous methods and attributes from the PerformanceCar, Car and Pickup child classes have been removed as they are
+   implemented in the Vehicle parent class.
+   Just a single public method buyVehicle() is implemented in all three of these child classes.
