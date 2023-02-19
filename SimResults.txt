@@ -1,0 +1,757 @@
+Output for FNCD:
+
+
+***Day 1***
+
+Current Budget: 500000
+
+Washing
+Intern Desmond washed a Dirty Chevrolet Spark and made it Clean
+Intern Desmond washed a Clean Chevrolet Colorado but it was still Clean
+Intern Altair washed a Dirty Nissan Sentra and made it Clean
+Intern Altair washed a Clean Nissan Sentra and made it Sparkling (and earned a bonus of $50)
+Intern Ezio washed a Dirty Audi RS7 and made it Clean
+Intern Ezio washed a Clean Mercedes-AMG GT and made it Sparkling (and earned a bonus of $100)
+
+Repairing
+Mechanic Haytham repaired a Used Ford Ranger and made it Like New (and earned a bonus of $125) and the vehicle became Dirty
+Mechanic Haytham repaired a Broken BMW M8 and made it Used (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Conner repaired a Broken Porsche Panamera but it was still Broken and the vehicle became Dirty
+Mechanic Conner repaired a Broken Ram 1500 Classic and made it Used (and earned a bonus of $125) and the vehicle became Clean
+Mechanic Edward repaired a Used BMW M8 and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Edward repaired a Broken Kia Forte and made it Used (and earned a bonus of $100) and the vehicle became Dirty
+
+Selling
+salesperson Arno has sold a Dirty Used Car Kia Forte to Buyer1 for $58305 (and earned a bonus of $150)
+salesperson Arno has sold a Dirty Like New Performance Car BMW M8 to Buyer3 for $135806 (and earned a bonus of $200)
+
+Day End
+Mechanic Conner has quit the FNCD.
+Hired a new Intern Isabella.
+Total sales for the day: 194111
+Remaining Budget: 652679
+
+***Day 2***
+
+Current Budget: 652679
+
+Washing
+Intern Altair washed a Dirty BMW M3 and made it Clean
+Intern Altair washed a Clean Audi RS7 but it was still Clean
+Intern Ezio washed a Dirty Porsche Panamera and made it Clean
+Intern Ezio washed a Clean GMC Canyon but it was still Clean
+Intern Isabella washed a Dirty Rolls-Royce Ghost and made it Clean
+Intern Isabella washed a Clean Ram 1500 Classic and made it Sparkling (and earned a bonus of $75)
+
+Repairing
+Mechanic Haytham repaired a Used Ram 1500 Classic and made it Like New (and earned a bonus of $125) and the vehicle became Clean
+Mechanic Haytham repaired a Broken Porsche Panamera and made it Used (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Edward repaired a Used Porsche Panamera and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Edward repaired a Broken BMW M3 but it was still Broken and the vehicle became Dirty
+Mechanic Desmond repaired a Broken BMW M3 and made it Used (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Desmond repaired a Used BMW M3 and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+
+Selling
+salesperson Shay has sold a Clean Like New Pickup Chevrolet Colorado to Buyer1 for $73902 (and earned a bonus of $175)
+
+Day End
+Intern Altair has quit the FNCD.
+Mechanic Edward has quit the FNCD.
+Hired a new Intern Brooklyn.
+Hired a new Intern Chloe.
+Total sales for the day: 73902
+Remaining Budget: 703818
+
+***Day 3***
+
+Current Budget: 703818
+
+Washing
+Intern Isabella washed a Dirty Porsche Panamera and made it Clean
+Intern Isabella washed a Clean Porsche Panamera but it was still Clean
+Intern Brooklyn washed a Dirty BMW M3 and made it Clean
+Intern Brooklyn washed a Clean Rolls-Royce Ghost but it was still Clean
+Intern Chloe washed a Dirty Hyundai Elantra and made it Clean
+Intern Chloe washed a Clean Chevrolet Spark but it was still Clean
+
+Repairing
+Mechanic Haytham repaired a Broken Chevrolet Spark and made it Used (and earned a bonus of $100) and the vehicle became Dirty
+Mechanic Haytham repaired a Used Chevrolet Spark and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+
+Selling
+salesperson Arno has sold a Dirty Like New Car Chevrolet Spark to Buyer2 for $52871 (and earned a bonus of $150)
+
+Day End
+Salesperson Arno has quit the FNCD.
+Hired a new Intern Paisley.
+Total sales for the day: 52871
+Remaining Budget: 741413
+
+***Day 4***
+
+Current Budget: 741413
+
+Washing
+Intern Brooklyn washed a Dirty Honda CR-V and made it Sparkling (and earned bonus of $50)
+Intern Brooklyn washed a Clean Hyundai Elantra but it was still Clean
+Intern Chloe washed a Dirty Ford Ranger and made it Clean
+Intern Chloe washed a Clean Rolls-Royce Ghost and made it Sparkling (and earned a bonus of $50)
+Intern Paisley washed a Clean Audi RS7 but it was still Clean
+
+Repairing
+Mechanic Haytham repaired a Broken Honda CR-V but it was still Broken and the vehicle became Clean
+Mechanic Haytham repaired a Broken Honda CR-V and made it Used (and earned a bonus of $100) and the vehicle became Dirty
+Mechanic Desmond repaired a Used Honda CR-V and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+
+Selling
+salesperson Shay has sold a Dirty Like New Car Honda CR-V to Buyer1 for $44448 (and earned a bonus of $150)
+salesperson Isabella has sold a Sparkling Like New Car Nissan Sentra to Buyer2 for $39602 (and earned a bonus of $150)
+
+Day End
+Intern Chloe has quit the FNCD.
+Hired a new Intern Harper.
+Total sales for the day: 84050
+Remaining Budget: 792799
+
+***Day 5***
+
+Current Budget: 792799
+
+Washing
+Intern Brooklyn washed a Dirty Tesla Cybertruck and made it Clean
+Intern Brooklyn washed a Clean Toyota Sienna and made it Sparkling (and earned a bonus of $75)
+Intern Paisley washed a Clean Ford Ranger but it was still Clean
+Intern Harper washed a Clean BMW M3 and made it Sparkling (and earned a bonus of $100)
+
+Repairing
+Mechanic Haytham repaired a Broken Lincoln Navigator and made it Used (and earned a bonus of $100) and the vehicle became Dirty
+Mechanic Haytham repaired a Used Tesla Cybertruck and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+Mechanic Desmond repaired a Used Lincoln Navigator and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+
+Selling
+salesperson Jacob has sold a Clean Like New Pickup Ram 1500 Classic to Buyer2 for $57855 (and earned a bonus of $175)
+salesperson Isabella has sold a Dirty Like New Car Lincoln Navigator to Buyer3 for $68546 (and earned a bonus of $150)
+salesperson Isabella has sold a Dirty Like New Car Tesla Cybertruck to Buyer4 for $43517 (and earned a bonus of $150)
+salesperson Jacob has sold a Sparkling Like New Performance Car BMW M3 to Buyer5 for $129660 (and earned a bonus of $200)
+salesperson Jacob has sold a Clean Like New Pickup GMC Canyon to Buyer6 for $37376 (and earned a bonus of $175)
+
+Day End
+Salesperson Isabella has quit the FNCD.
+Hired a new Intern Lillian.
+Total sales for the day: 336954
+Remaining Budget: 1013543
+
+***Day 6***
+
+Current Budget: 1013543
+
+Washing
+Intern Paisley washed a Dirty Mercedes-Benz S-Class but it was still Dirty
+Intern Paisley washed a Clean Mazda CX-30 but it was still Clean
+Intern Harper washed a Dirty Tesla Model X but it was still Dirty
+Intern Harper washed a Clean Audi RS7 and made it Sparkling (and earned a bonus of $100)
+Intern Lillian washed a Dirty Tesla Model X and made it Clean
+Intern Lillian washed a Clean Ford Mustang and made it Sparkling (and earned a bonus of $75)
+
+Repairing
+Mechanic Haytham repaired a Used Mercedes-Benz S-Class but it was still Used and the vehicle became Dirty
+Mechanic Haytham repaired a Used Jeep Wrangler and made it Like New (and earned a bonus of $125) and the vehicle became Clean
+Mechanic Desmond repaired a Used Tesla Model X and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Desmond repaired a Used Mercedes-Benz S-Class and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+
+Selling
+salesperson Brooklyn has sold a Dirty Like New Car Mercedes-Benz S-Class to Buyer2 for $35152 (and earned a bonus of $150)
+
+Day End
+Total sales for the day: 35152
+Remaining Budget: 1024240
+
+***Day 8***
+
+Current Budget: 1024240
+
+Washing
+Intern Paisley washed a Dirty Tesla Model X and made it Clean
+Intern Paisley washed a Clean Ford Ranger but it was still Clean
+Intern Harper washed a Dirty Ford F-150 and made it Clean
+Intern Harper washed a Clean Ford Ranger and made it Sparkling (and earned a bonus of $75)
+Intern Lillian washed a Clean Mazda CX-30 but made it Dirty
+
+Repairing
+
+Selling
+salesperson Brooklyn has sold a Sparkling Like New Pickup Ford Mustang to Buyer1 for $77546 (and earned a bonus of $175)
+salesperson Brooklyn has sold a Clean Like New Car Ford F-150 to Buyer3 for $29510 (and earned a bonus of $150)
+salesperson Jacob has sold a Clean Like New Performance Car Porsche Panamera to Buyer4 for $128092 (and earned a bonus of $200)
+
+Day End
+Total sales for the day: 235148
+Remaining Budget: 1196869
+
+***Day 9***
+
+Current Budget: 1196869
+
+Washing
+Intern Paisley washed a Dirty Chevrolet Equinox and made it Clean
+Intern Paisley washed a Clean Chevrolet Equinox but it was still Clean
+Intern Harper washed a Dirty Mazda CX-30 and made it Clean
+Intern Harper washed a Clean Jeep Wrangler but it was still Clean
+Intern Lillian washed a Dirty Nissan Pathfinder and made it Clean
+Intern Lillian washed a Clean Nissan Rogue Sport but it was still Clean
+
+Repairing
+Mechanic Haytham repaired a Broken Nissan Pathfinder and made it Used (and earned a bonus of $125) and the vehicle became Dirty
+Mechanic Haytham repaired a Used Nissan Rogue Sport and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Desmond repaired a Used Chevrolet Equinox and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+Mechanic Desmond repaired a Used Nissan Pathfinder and made it Like New (and earned a bonus of $125) and the vehicle became Dirty
+
+Selling
+salesperson Jacob has sold a Dirty Like New Car Chevrolet Equinox to Buyer1 for $36677 (and earned a bonus of $150)
+salesperson Brooklyn has sold a Clean Like New Performance Car Tesla Model X to Buyer2 for $82187 (and earned a bonus of $200)
+
+Day End
+Mechanic Ezio has quit the FNCD.
+Salesperson Shay has quit the FNCD.
+Hired a new Intern Anna.
+Hired a new Intern Willow.
+Total sales for the day: 118864
+Remaining Budget: 1276826
+
+***Day 10***
+
+Current Budget: 1276826
+
+Washing
+Intern Lillian washed a Dirty Nissan Rogue Sport and made it Clean
+Intern Lillian washed a Clean Hyundai Elantra but it was still Clean
+Intern Anna washed a Dirty Ford EcoSport and made it Clean
+Intern Anna washed a Clean Chrysler Pacifica and made it Sparkling (and earned a bonus of $50)
+Intern Willow washed a Dirty Nissan Pathfinder and made it Sparkling (and earned bonus of $75)
+Intern Willow washed a Clean Ford EcoSport but it was still Clean
+
+Repairing
+Mechanic Haytham repaired a Broken Ford EcoSport but it was still Broken and the vehicle became Dirty
+Mechanic Haytham repaired a Broken Ford EcoSport and made it Used (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Desmond repaired a Used Chrysler Pacifica but it was still Used and the vehicle became Clean
+Mechanic Desmond repaired a Used Chrysler Pacifica and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+Mechanic Paisley repaired a Used Ford EcoSport but it was still Used and the vehicle became Dirty
+Mechanic Paisley repaired a Used Ford EcoSport and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+
+Selling
+salesperson Harper has sold a Dirty Like New Car Chrysler Pacifica to Buyer1 for $45230 (and earned a bonus of $150)
+salesperson Brooklyn has sold a Sparkling Like New Pickup Nissan Pathfinder to Buyer3 for $145976 (and earned a bonus of $175)
+
+Day End
+Intern Lillian has quit the FNCD.
+Hired a new Intern Eva.
+Total sales for the day: 191206
+Remaining Budget: 1408937
+
+***Day 11***
+
+Current Budget: 1408937
+
+Washing
+Intern Anna washed a Dirty Audi A4 and made it Clean
+Intern Anna washed a Clean Audi A4 and made it Sparkling (and earned a bonus of $75)
+Intern Willow washed a Dirty Ford EcoSport and made it Clean
+Intern Willow washed a Clean Bentley Bentayga but made it Dirty
+Intern Eva washed a Dirty Bentley Bentayga and made it Clean
+Intern Eva washed a Clean Ford EcoSport but it was still Clean
+
+Repairing
+
+Selling
+salesperson Brooklyn has sold a Sparkling Like New Car Rolls-Royce Ghost to Buyer3 for $27988 (and earned a bonus of $150)
+
+Day End
+Mechanic Haytham has quit the FNCD.
+Salesperson Brooklyn has quit the FNCD.
+Hired a new Intern Naomi.
+Hired a new Intern Aubree.
+Total sales for the day: 27988
+Remaining Budget: 1408143
+
+***Day 12***
+
+Current Budget: 1408143
+
+Washing
+Intern Eva washed a Dirty Kia Soul and made it Clean
+Intern Eva washed a Clean Mazda CX-30 but it was still Clean
+Intern Naomi washed a Clean Jeep Wrangler but it was still Clean
+Intern Aubree washed a Clean Hyundai Elantra and made it Sparkling (and earned a bonus of $50)
+
+Repairing
+
+Selling
+salesperson Jacob has sold a Clean Like New Performance Car Ford EcoSport to Buyer1 for $109383 (and earned a bonus of $200)
+salesperson Jacob has sold a Sparkling Like New Pickup Audi A4 to Buyer4 for $77154 (and earned a bonus of $175)
+salesperson Jacob has sold a Clean Like New Performance Car Nissan Rogue Sport to Buyer5 for $67877 (and earned a bonus of $200)
+salesperson Harper has sold a Sparkling Like New Performance Car Mercedes-AMG GT to Buyer6 for $63628 (and earned a bonus of $200)
+salesperson Harper has sold a Clean Like New Pickup Jeep Wrangler to Buyer7 for $49880 (and earned a bonus of $175)
+salesperson Harper has sold a Clean Like New Car Kia Soul to Buyer8 for $39114 (and earned a bonus of $150)
+
+Day End
+Intern Eva has quit the FNCD.
+Hired a new Intern Reagan.
+Total sales for the day: 407036
+Remaining Budget: 1649015
+
+***Day 13***
+
+Current Budget: 1649015
+
+Washing
+Intern Naomi washed a Dirty Porsche 911 and made it Clean
+Intern Naomi washed a Clean Subaru Crosstrek but it was still Clean
+Intern Aubree washed a Dirty Ford Bronco and made it Clean
+Intern Aubree washed a Clean Porsche 911 but it was still Clean
+Intern Reagan washed a Dirty Lexus RX and made it Clean
+Intern Reagan washed a Clean Lexus RX but it was still Clean
+
+Repairing
+Mechanic Desmond repaired a Used Lexus RX and made it Like New (and earned a bonus of $125) and the vehicle became Dirty
+Mechanic Desmond repaired a Broken Honda Pilot and made it Used (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Paisley repaired a Used Honda Pilot but it was still Used and the vehicle became Dirty
+Mechanic Paisley repaired a Used Honda Pilot but it was still Used and the vehicle became Dirty
+Mechanic Anna repaired a Used Honda Pilot but it was still Used and the vehicle became Dirty
+Mechanic Anna repaired a Used Honda Pilot and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+
+Selling
+salesperson Harper has sold a Clean Like New Car Porsche 911 to Buyer1 for $38160 (and earned a bonus of $150)
+salesperson Harper has sold a Dirty Like New Performance Car Honda Pilot to Buyer2 for $141660 (and earned a bonus of $200)
+salesperson Harper has sold a Sparkling Like New Performance Car Audi RS7 to Buyer3 for $61068 (and earned a bonus of $200)
+salesperson Harper has sold a Clean Like New Performance Car Subaru Crosstrek to Buyer6 for $57986 (and earned a bonus of $200)
+
+Day End
+Intern Naomi has quit the FNCD.
+Hired a new Intern Bella.
+Total sales for the day: 298874
+Remaining Budget: 1862836
+
+***Day 15***
+
+Current Budget: 1862836
+
+Washing
+Intern Aubree washed a Dirty Jeep Cherokee and made it Clean
+Intern Aubree washed a Clean Mazda CX-30 and made it Sparkling (and earned a bonus of $50)
+Intern Reagan washed a Dirty Lexus RX and made it Clean
+Intern Reagan washed a Clean Lexus RX but it was still Clean
+Intern Bella washed a Dirty Subaru Forester but it was still Dirty
+Intern Bella washed a Clean Ford Bronco but it was still Clean
+
+Repairing
+Mechanic Desmond repaired a Broken Dodge Ram and made it Used (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Desmond repaired a Used Dodge Ram but it was still Used and the vehicle became Dirty
+Mechanic Paisley repaired a Used Dodge Ram and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Paisley repaired a Used Subaru Forester but it was still Used and the vehicle became Dirty
+Mechanic Anna repaired a Broken Jeep Cherokee and made it Used (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Anna repaired a Used Jeep Cherokee but it was still Used and the vehicle became Dirty
+
+Selling
+
+Day End
+Mechanic Desmond has quit the FNCD.
+Hired a new Intern Jasmine.
+Total sales for the day: 0
+Remaining Budget: 1853336
+
+***Day 16***
+
+Current Budget: 1853336
+
+Washing
+Intern Reagan washed a Dirty Jeep Cherokee and made it Clean
+Intern Reagan washed a Clean Bentley Bentayga but it was still Clean
+Intern Bella washed a Dirty Subaru Forester and made it Sparkling (and earned bonus of $50)
+Intern Bella washed a Clean Jeep Cherokee but it was still Clean
+Intern Jasmine washed a Dirty Dodge Ram and made it Clean
+Intern Jasmine washed a Clean Land Rover Range Rover and made it Sparkling (and earned a bonus of $100)
+
+Repairing
+Mechanic Paisley repaired a Used Jeep Cherokee and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Paisley repaired a Used Subaru Forester and made it Like New (and earned a bonus of $100) and the vehicle became Clean
+
+Selling
+salesperson Willow has sold a Clean Like New Performance Car Dodge Ram to Buyer2 for $139698 (and earned a bonus of $200)
+salesperson Willow has sold a Clean Like New Car Subaru Forester to Buyer4 for $34607 (and earned a bonus of $150)
+
+Day End
+Intern Bella has quit the FNCD.
+Hired a new Intern Isabelle.
+Total sales for the day: 174305
+Remaining Budget: 1973786
+
+***Day 17***
+
+Current Budget: 1973786
+
+Washing
+Intern Reagan washed a Dirty Chevrolet Trax and made it Clean
+Intern Reagan washed a Clean Mazda MX-5 Miata but it was still Clean
+Intern Jasmine washed a Dirty Jeep Cherokee and made it Clean
+Intern Jasmine washed a Clean Lexus RX and made it Sparkling (and earned a bonus of $75)
+Intern Isabelle washed a Clean Chevrolet Trax but it was still Clean
+
+Repairing
+Mechanic Paisley repaired a Used Mazda MX-5 Miata and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+Mechanic Paisley repaired a Used Chevrolet Trax and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+
+Selling
+
+Day End
+Salesperson Willow has quit the FNCD.
+Hired a new Intern Mikayla.
+Total sales for the day: 0
+Remaining Budget: 1964461
+
+***Day 18***
+
+Current Budget: 1964461
+
+Washing
+Intern Jasmine washed a Dirty Mazda MX-5 Miata and made it Clean
+Intern Jasmine washed a Clean Ford Bronco and made it Sparkling (and earned a bonus of $75)
+Intern Isabelle washed a Dirty Chevrolet Trax and made it Sparkling (and earned bonus of $100)
+Intern Isabelle washed a Clean Mazda MX-5 Miata but it was still Clean
+Intern Mikayla washed a Clean Jeep Cherokee but it was still Clean
+
+Repairing
+
+Selling
+
+Day End
+Total sales for the day: 0
+Remaining Budget: 1955286
+
+***Day 19***
+
+Current Budget: 1955286
+
+Washing
+Intern Jasmine washed a Clean Mazda MX-5 Miata but it was still Clean
+Intern Isabelle washed a Clean Jeep Gladiator but it was still Clean
+Intern Mikayla washed a Clean Bentley Bentayga but it was still Clean
+
+Repairing
+
+Selling
+salesperson Harper has sold a Sparkling Like New Pickup Lexus RX to Buyer5 for $99825 (and earned a bonus of $175)
+
+Day End
+Total sales for the day: 99825
+Remaining Budget: 2036590
+
+***Day 20***
+
+Current Budget: 2036590
+
+Washing
+Intern Jasmine washed a Clean Mazda MX-5 Miata and made it Sparkling (and earned a bonus of $50)
+Intern Isabelle washed a Clean Chevrolet Corvette but it was still Clean
+Intern Mikayla washed a Clean Bentley Bentayga and made it Sparkling (and earned a bonus of $50)
+
+Repairing
+Mechanic Paisley repaired a Used Chevrolet Corvette and made it Like New (and earned a bonus of $125) and the vehicle became Dirty
+
+Selling
+salesperson Harper has sold a Sparkling Like New Car Mazda MX-5 Miata to Buyer1 for $46062 (and earned a bonus of $150)
+salesperson Reagan has sold a Sparkling Like New Car Mazda CX-30 to Buyer2 for $27206 (and earned a bonus of $150)
+salesperson Harper has sold a Sparkling Like New Pickup Ford Bronco to Buyer3 for $64524 (and earned a bonus of $175)
+salesperson Harper has sold a Dirty Like New Pickup Chevrolet Corvette to Buyer5 for $29207 (and earned a bonus of $175)
+
+Day End
+Salesperson Reagan has quit the FNCD.
+Hired a new Intern Alyssa.
+Total sales for the day: 166999
+Remaining Budget: 2140927
+
+***Day 22***
+
+Current Budget: 2140927
+
+Washing
+Intern Isabelle washed a Dirty GMC Sierra and made it Sparkling (and earned bonus of $75)
+Intern Isabelle washed a Clean Dodge Grand Caravan but it was still Clean
+Intern Mikayla washed a Dirty Bentley Continental GT and made it Clean
+Intern Mikayla washed a Clean Aston Martin DB11 but it was still Clean
+Intern Alyssa washed a Clean Bentley Continental GT and made it Sparkling (and earned a bonus of $50)
+
+Repairing
+Mechanic Paisley repaired a Broken Bentley Continental GT and made it Used (and earned a bonus of $100) and the vehicle became Clean
+Mechanic Paisley repaired a Used Bentley Continental GT and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+Mechanic Anna repaired a Broken Dodge Grand Caravan and made it Used (and earned a bonus of $100) and the vehicle became Dirty
+Mechanic Anna repaired a Used Dodge Grand Caravan and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+Mechanic Aubree repaired a Broken GMC Sierra and made it Used (and earned a bonus of $125) and the vehicle became Clean
+Mechanic Aubree repaired a Used GMC Sierra and made it Like New (and earned a bonus of $125) and the vehicle became Dirty
+
+Selling
+
+Day End
+Total sales for the day: 0
+Remaining Budget: 2131152
+
+***Day 23***
+
+Current Budget: 2131152
+
+Washing
+Intern Isabelle washed a Dirty Dodge Grand Caravan and made it Clean
+Intern Isabelle washed a Clean Jeep Cherokee but it was still Clean
+Intern Mikayla washed a Dirty Bentley Continental GT and made it Clean
+Intern Mikayla washed a Clean Jeep Gladiator but it was still Clean
+Intern Alyssa washed a Dirty GMC Sierra and made it Clean
+Intern Alyssa washed a Clean Dodge Grand Caravan but it was still Clean
+
+Repairing
+
+Selling
+salesperson Harper has sold a Clean Like New Pickup GMC Sierra to Buyer1 for $78026 (and earned a bonus of $175)
+
+Day End
+Total sales for the day: 78026
+Remaining Budget: 2165638
+
+***Day 24***
+
+Current Budget: 2165638
+
+Washing
+Intern Isabelle washed a Clean Jeep Gladiator but it was still Clean
+Intern Mikayla washed a Clean Bentley Continental GT and made it Sparkling (and earned a bonus of $50)
+Intern Alyssa washed a Clean Jeep Cherokee but made it Dirty
+
+Repairing
+
+Selling
+salesperson Jacob has sold a Dirty Like New Performance Car Jeep Cherokee to Buyer1 for $119208 (and earned a bonus of $200)
+salesperson Jacob has sold a Sparkling Like New Car Bentley Continental GT to Buyer2 for $72975 (and earned a bonus of $150)
+salesperson Jasmine has sold a Sparkling Like New Performance Car Chevrolet Trax to Buyer3 for $91767 (and earned a bonus of $200)
+salesperson Jacob has sold a Sparkling Like New Performance Car Land Rover Range Rover to Buyer4 for $58568 (and earned a bonus of $200)
+
+Day End
+Total sales for the day: 342518
+Remaining Budget: 2423349
+
+***Day 25***
+
+Current Budget: 2423349
+
+Washing
+Intern Isabelle washed a Dirty Maserati Levante and made it Clean
+Intern Isabelle washed a Clean Ford Escape and made it Sparkling (and earned a bonus of $100)
+Intern Mikayla washed a Dirty Ferrari F8 Tributo and made it Clean
+Intern Mikayla washed a Clean Aston Martin DB11 but it was still Clean
+Intern Alyssa washed a Dirty Nissan Quest and made it Clean
+Intern Alyssa washed a Clean Dodge Grand Caravan but it was still Clean
+
+Repairing
+Mechanic Paisley repaired a Used Ford Escape but it was still Used and the vehicle became Clean
+Mechanic Paisley repaired a Used Nissan Quest but it was still Used and the vehicle became Dirty
+Mechanic Anna repaired a Used Ford Escape and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Anna repaired a Used Nissan Quest and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Aubree repaired a Used Ferrari F8 Tributo and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+
+Selling
+
+Day End
+Intern Isabelle has quit the FNCD.
+Mechanic Anna has quit the FNCD.
+Hired a new Intern Camila.
+Hired a new Intern Layla.
+Total sales for the day: 0
+Remaining Budget: 2413849
+
+***Day 26***
+
+Current Budget: 2413849
+
+Washing
+Intern Alyssa washed a Dirty Ferrari F8 Tributo and made it Clean
+Intern Alyssa washed a Clean Dodge Grand Caravan but it was still Clean
+Intern Camila washed a Dirty Nissan Quest but it was still Dirty
+Intern Camila washed a Clean Maserati Levante but it was still Clean
+Intern Layla washed a Dirty Nissan Quest and made it Clean
+Intern Layla washed a Clean Ferrari F8 Tributo and made it Sparkling (and earned a bonus of $50)
+
+Repairing
+
+Selling
+salesperson Jacob has sold a Sparkling Like New Pickup Volvo XC90 to Buyer3 for $68730 (and earned a bonus of $175)
+salesperson Harper has sold a Clean Like New Car Dodge Grand Caravan to Buyer4 for $48907 (and earned a bonus of $150)
+salesperson Jacob has sold a Clean Like New Pickup Aston Martin DB11 to Buyer5 for $52266 (and earned a bonus of $175)
+
+Day End
+Intern Camila has quit the FNCD.
+Salesperson Harper has quit the FNCD.
+Hired a new Intern Hannah.
+Hired a new Intern Caroline.
+Total sales for the day: 169903
+Remaining Budget: 2509133
+
+***Day 27***
+
+Current Budget: 2509133
+
+Washing
+Intern Layla washed a Dirty Kia Telluride and made it Clean
+Intern Layla washed a Clean Chevrolet Blazer and made it Sparkling (and earned a bonus of $75)
+Intern Hannah washed a Dirty Ford Escape and made it Clean
+Intern Hannah washed a Clean Nissan Quest and made it Sparkling (and earned a bonus of $100)
+Intern Caroline washed a Clean Hyundai Kona but it was still Clean
+
+Repairing
+Mechanic Paisley repaired a Used Kia Telluride and made it Like New (and earned a bonus of $100) and the vehicle became Dirty
+
+Selling
+salesperson Alyssa has sold a Clean Like New Pickup Hyundai Kona to Buyer3 for $69110 (and earned a bonus of $175)
+
+Day End
+Intern Hannah has quit the FNCD.
+Mechanic Mikayla has quit the FNCD.
+Hired a new Intern Kennedy.
+Hired a new Intern Ellie.
+Total sales for the day: 69110
+Remaining Budget: 2538958
+
+***Day 29***
+
+Current Budget: 2538958
+
+Washing
+Intern Caroline washed a Dirty Chevrolet Traverse and made it Clean
+Intern Caroline washed a Clean Jeep Gladiator but made it Dirty
+Intern Kennedy washed a Dirty Jeep Gladiator and made it Clean
+Intern Kennedy washed a Clean Jeep Gladiator but it was still Clean
+Intern Ellie washed a Dirty Kia Telluride and made it Clean
+Intern Ellie washed a Clean Kia Telluride but made it Dirty
+
+Repairing
+Mechanic Paisley repaired a Used Chevrolet Traverse and made it Like New (and earned a bonus of $125) and the vehicle became Dirty
+
+Selling
+salesperson Jasmine has sold a Clean Like New Performance Car Maserati Levante to Buyer5 for $55676 (and earned a bonus of $200)
+
+Day End
+Intern Kennedy has quit the FNCD.
+Hired a new Intern Ariel.
+Total sales for the day: 55676
+Remaining Budget: 2573938
+
+***Day 30***
+
+Current Budget: 2573938
+
+Washing
+Intern Caroline washed a Dirty Chevrolet Traverse and made it Clean
+Intern Caroline washed a Clean Ford Escape and made it Sparkling (and earned a bonus of $100)
+Intern Ellie washed a Dirty Kia Telluride and made it Clean
+Intern Ellie washed a Clean Chevrolet Traverse but it was still Clean
+Intern Ariel washed a Dirty Jeep Compass and made it Clean
+Intern Ariel washed a Clean Kia Telluride and made it Sparkling (and earned a bonus of $50)
+
+Repairing
+Mechanic Paisley repaired a Broken Jeep Compass and made it Used (and earned a bonus of $150) and the vehicle became Dirty
+Mechanic Paisley repaired a Used Jeep Compass but it was still Used and the vehicle became Dirty
+Mechanic Aubree repaired a Used Jeep Compass and made it Like New (and earned a bonus of $150) and the vehicle became Dirty
+
+Selling
+salesperson Jasmine has sold a Dirty Like New Performance Car Jeep Compass to Buyer2 for $85286 (and earned a bonus of $200)
+
+Day End
+Intern Caroline has quit the FNCD.
+Mechanic Aubree has quit the FNCD.
+Hired a new Intern Sophia.
+Hired a new Intern Amelia.
+Total sales for the day: 85286
+Remaining Budget: 2622879
+
+***************SUMMARY***************
+List of Staff:
+Interns: [Ariel, Sophia, Amelia]
+Mechanics: [Paisley, Layla, Ellie]
+Salespersons: [Jacob, Jasmine, Alyssa]
+
+Status of Staff:
+Interns: [Active, Active, Active]
+Mechanics: [Active, Active, Active]
+Salespersons: [Active, Active, Active]
+
+Total Days worked by Staff:
+Interns: [1, 0, 0]
+Mechanics: [23, 4, 2]
+Salespersons: [26, 13, 8]
+
+Total Bonus of Staff:
+Interns: [50, 0, 0]
+Mechanics: [1500, 125, 0]
+Salespersons: [2375, 900, 225]
+
+Total Normal Pay of Staff:
+Interns: [500, 0, 0]
+Mechanics: [20500, 3000, 1000]
+Salespersons: [39000, 14500, 7000]
+
+List of Departed Staff:
+Interns: [Altair, Chloe, Lillian, Eva, Naomi, Bella, Isabelle, Camila, Hannah, Kennedy, Caroline]
+Mechanics: [Conner, Edward, Ezio, Haytham, Desmond, Anna, Mikayla, Aubree]
+Salespersons: [Arno, Isabella, Shay, Brooklyn, Willow, Reagan, Harper]
+
+Total Days worked by Departed Staff:
+Interns: [2, 2, 4, 2, 2, 2, 8, 1, 1, 1, 3]
+Mechanics: [1, 2, 8, 10, 13, 14, 9, 16]
+Salespersons: [3, 4, 8, 8, 7, 7, 19]
+
+Total Bonus of Departed Staff:
+Interns: [50, 50, 75, 0, 0, 50, 275, 0, 100, 0, 100]
+Mechanics: [125, 400, 100, 1600, 1500, 925, 100, 600]
+Salespersons: [500, 525, 325, 1125, 425, 150, 2700]
+
+Total Normal Pay of Departed Staff:
+Interns: [1000, 1000, 2000, 1000, 1000, 1000, 4000, 500, 500, 500, 1500]
+Mechanics: [1000, 2000, 7000, 10000, 12500, 13000, 5500, 14500]
+Salespersons: [4500, 4000, 12000, 9000, 8500, 6500, 24500]
+
+
+List of Vehicles:
+Car: [Hyundai Elantra, Bentley Bentayga, Ferrari F8 Tributo, Kia Telluride]
+Pickup: [Ford Ranger, Toyota Sienna, Chevrolet Blazer, Chevrolet Traverse]
+Performance Car: [Jeep Gladiator, Ford Escape, Nissan Quest, Honda Civic]
+
+Condition of Vehicles:
+Broken: []
+Used: [Honda Civic]
+Like New: [Hyundai Elantra, Ford Ranger, Toyota Sienna, Bentley Bentayga, Jeep Gladiator, Ford Escape, Nissan Quest, Ferrari F8 Tributo, Chevrolet Blazer, Kia Telluride, Chevrolet Traverse]
+
+Cleanliness of Vehicles:
+Dirty: []
+Clean: [Jeep Gladiator, Chevrolet Traverse]
+Sparkling: [Toyota Sienna, Ford Ranger, Hyundai Elantra, Bentley Bentayga, Ferrari F8 Tributo, Chevrolet Blazer, Nissan Quest, Ford Escape, Kia Telluride, Honda Civic]
+
+Status of Vehicles:
+Car: [In Stock, In Stock, In Stock, In Stock]
+Pickup: [In Stock, In Stock, In Stock, In Stock]
+Performance Car: [In Stock, In Stock, In Stock, In Stock]
+
+Cost price of Vehicles:
+Car: [12738, 10668, 14023, 15408]
+Pickup: [9138, 12788, 15106, 29835]
+Performance Car: [24847, 17024, 16122, 26695]
+
+Sales price of Vehicles:
+Car: [25476, 21336, 43822, 48152]
+Pickup: [28557, 25576, 30212, 93235]
+Performance Car: [49694, 53200, 50382, 66738]
+
+List of Sold Vehicles:
+Car: [Kia Forte, Chevrolet Spark, Honda CR-V, Nissan Sentra, Lincoln Navigator, Tesla Cybertruck, Mercedes-Benz S-Class, Ford F-150, Chevrolet Equinox, Chrysler Pacifica, Rolls-Royce Ghost, Kia Soul, Porsche 911, Subaru Forester, Mazda MX-5 Miata, Mazda CX-30, Bentley Continental GT, Dodge Grand Caravan]
+Pickup: [Chevrolet Colorado, Ram 1500 Classic, GMC Canyon, Ford Mustang, Nissan Pathfinder, Audi A4, Jeep Wrangler, Lexus RX, Ford Bronco, Chevrolet Corvette, GMC Sierra, Volvo XC90, Aston Martin DB11, Hyundai Kona]
+Performance Car: [BMW M8, BMW M3, Porsche Panamera, Tesla Model X, Ford EcoSport, Nissan Rogue Sport, Mercedes-AMG GT, Honda Pilot, Audi RS7, Subaru Crosstrek, Dodge Ram, Jeep Cherokee, Chevrolet Trax, Land Rover Range Rover, Maserati Levante, Jeep Compass]
+
+Total sales for the day: 85286
+Remaining Budget: 2622879
+
+Process finished with exit code 0
