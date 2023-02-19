@@ -1,4 +1,4 @@
-Changes made in the new updated UML Diagram:
+Comments for changes made in the new updated UML Diagram:
 
 a) The Operation class now inherits from the Staff class and it includes some additional methods and attributes.
    The additional public attributes included are added_money, total_sales, day.
@@ -47,10 +47,3 @@ i) Mechanic class has its previous public attributes removed and new public attr
 j) All the previous methods and attributes from the PerformanceCar, Car and Pickup child classes have been removed as they are
    implemented in the Vehicle parent class.
    Just a single public method buyVehicle() is implemented in all three of these child classes.
-
-
-Updated UML Diagram:
-
-
-
-
