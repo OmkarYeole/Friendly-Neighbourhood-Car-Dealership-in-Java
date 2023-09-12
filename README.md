@@ -1,4 +1,4 @@
-# Project2_CSCI_5448
+# Friendly Neighbourhood Car Dealership in Java
 
 Team Members - Omkar Yeole, Abhishek Limaye
 
